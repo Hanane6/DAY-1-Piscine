@@ -1,1 +1,2 @@
-
+console.error('dieser Code funktioniert nicht, er ist deutsch und nicht javascript')
+<a class='gotoLine' href='#"dieser Code funktioniert nicht, er ist deutsch und nicht javascript"'>"dieser Code funktioniert nicht, er ist deutsch und nicht javascript"</a>
